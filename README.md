@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alxis99
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Python & Automatisation
+- 💞️ I’m looking to collaborate on project
