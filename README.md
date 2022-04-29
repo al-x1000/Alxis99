@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexis</h1>
 <h3 align="center">A student in Paris</h3>
-
+ <img align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif">
 - 🔭 I’m currently working on [Doc's site](http://docs.3specs.fr/)
 
 - 🌱 I’m currently learning **Python, Docker, Azure...**
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Alxis99](https://github.com/Alxis99)
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
