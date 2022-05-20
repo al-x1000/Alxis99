@@ -13,7 +13,7 @@
 
 
 ## Resume
-<td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 - 🔭 I’m currently working on [Portfolio](https://ah1.fr).  
   
@@ -24,15 +24,16 @@
 - 👨‍💻 All of my projects are available  [here](https://github.com/Alxis99).  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="70%">
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/9aab7dead81f32808b9f867a407d688b6b7146cd42d6878a5b616183463ddb02/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f514d486f55363673425871714c715976474f2f67697068792e676966" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/9aab7dead81f32808b9f867a407d688b6b7146cd42d6878a5b616183463ddb02/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f514d486f55363673425871714c715976474f2f67697068792e676966" align="center" style="width: 50%" />
 </div>  
 
 
 </td></tr></table>  
 
+<br/>  
 <br/>  
 
 
