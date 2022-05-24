@@ -1,12 +1,16 @@
 ## <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alexis</h2>  
   
 
+<a href="https://https://tryhackme.com/p/Alxis99" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Alxis99.png" alt="TryHackMe" style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/Alxis99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/alexis-huellou" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+
   
 
 <br/>  
