@@ -1,4 +1,4 @@
-## <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">, I'm Alexis</h2>  
+## <h2>Hi, I'm Alexis</h2>  
 
 
 <a href="https://tryhackme.com/p/Alxis99" target="_blank">
