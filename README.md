@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on [Portfolio](https://ah1.fr).  
   
 
-- 🐍 I’m currently learning Python.  
+- 🐍 I’m currently learning the DevOps philosophy.  
   
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/Alxis99).  
