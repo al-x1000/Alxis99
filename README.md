@@ -16,10 +16,10 @@
 <br/>  
 
 ## Resume
-- 🔭 I’m currently working on [Portfolio](https://ah1.fr).  
+- 🔭 I’m currently working on [Portfolio](https://ha1.fr).  
   
 
-- 🐍 I’m currently learning the DevOps philosophy.  
+- 🐍 I’m currently working on AWS Cloud Practitioner.
   
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/Alxis99).  
