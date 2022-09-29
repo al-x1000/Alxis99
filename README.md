@@ -19,10 +19,10 @@
 - 🔭 I’m currently working on [Portfolio](https://ha1.fr).  
   
 
-- 🐍 I’m currently working on AWS Cloud Practitioner.
+- 🐍 I’m preparing for AWS Cloud Practitioner.
   
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/Alxis99).  
+- 👨‍💻 All of my projects are available  [here](https://github.com/Alxis99?tab=repositories).  
 
 
 
@@ -59,7 +59,7 @@
 <br/>  
 
 
-## Be like 
+## How to describe me :
 <table><tr><td valign="top" width="50%">
 
 <img src="https://i.imgur.com/0UW1yhc.gif" align="left" height="200" width="350" />
